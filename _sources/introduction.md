@@ -16,9 +16,6 @@ Last update of this package is on 02 Jan 2025 as the first release and current p
 
 SCAPyP is your go-to tool for handling the complexities of single-case design analysis with precision and simplicity.
 
----
-
-If you'd like me to continue with sections such as installation, usage examples, and module descriptions, let me know!
 
 ```{tableofcontents}
 ```
