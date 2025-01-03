@@ -1,4 +1,4 @@
-# **SingleCaseData** Class
+# SingleCaseData Class
 
 ## **Overview**
 The `SingleCaseData` class provides a streamlined way to organize and manage single-case experimental design data. This class enables users to define experimental phases, structure their data into a consistent format, and export it for further analysis or presentation. It is designed to accommodate various input formats and offers flexibility in defining phase designs and metadata.
